@@ -1,0 +1,43 @@
+.hero {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    padding: 40px 20px;
+    background-color: black;
+    background-image: url('ZenDesk.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    text-align: center; /* Center text alignment */
+    height: 75vh; /* Set a height for the hero section */
+  }
+  
+  .hero-text {
+    max-width: 60%; /* Adjust as needed */
+    margin: 0 auto;
+  }
+  
+  .hero-text h2 {
+    font-size: 48px;
+    color: beige;
+    margin-bottom: 20px;
+  }
+  
+  .hero-text p {
+    font-size: 18px;
+    color: beige;
+    margin-bottom: 20px;
+  }
+  
+  .explore-button {
+    padding: 10px 20px;
+    background-color: #4A4A4A;
+    color: #FFF;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .hero-image {
+    display: none; /* Hide the image for now, or you can reposition it */
+  }
+  

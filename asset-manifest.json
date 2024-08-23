@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f040cabc.css",
+    "main.js": "/static/js/main.2f01b054.js",
+    "static/js/453.b34e65be.chunk.js": "/static/js/453.b34e65be.chunk.js",
+    "static/media/ZenDesk.png": "/static/media/ZenDesk.902c18fc780df6309a68.png",
+    "static/media/woodenBeam.png": "/static/media/woodenBeam.f742401b40114c9a7b53.png",
+    "index.html": "/index.html",
+    "main.f040cabc.css.map": "/static/css/main.f040cabc.css.map",
+    "main.2f01b054.js.map": "/static/js/main.2f01b054.js.map",
+    "453.b34e65be.chunk.js.map": "/static/js/453.b34e65be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f040cabc.css",
+    "static/js/main.2f01b054.js"
+  ]
+}
